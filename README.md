@@ -1,4 +1,3 @@
-# 💫 About Me:
 too young to bother tho.
 
 
