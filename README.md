@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi! My name is Apurva i'm College Student and a Web Developer, I love creating things that exists on the internet. My interest in web development started in 2022 when i joined KIIT University and started understanding how websites and webpages work
+too young to bother tho.
 
 
 ## 🌐 Socials:
