@@ -1,6 +1,5 @@
 # Apurva Mukherjee 🚀
 
-Hey there! I'm Apurva — a curious mind exploring **tech, design, and business**, all while building cool projects (and occasionally breaking them just to learn more 😉). Too young to be boring, too ambitious to slow down.  
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/sameapurva)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/apurvamukherjee)
