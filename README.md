@@ -30,23 +30,3 @@
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) 
 ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white)
 
----
-
-## 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=apurvamukherjee&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=apurvamukherjee&theme=radical&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=apurvamukherjee&theme=radical&hide_border=false&layout=compact)
-
----
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=apurvamukherjee&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
----
-
-## ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
----
-
-[![](https://visitcount.itsvg.in/api?id=apurvamukherjee&icon=6&color=4)](https://visitcount.itsvg.in)
