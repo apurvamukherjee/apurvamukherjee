@@ -1,1 +1,1 @@
-![preview](https://raw.githubusercontent.com/magic-ike/spotify-data-card/master/docs/basic.svg)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=3163p5wgei4ruy46xzncsdfw3czq&cover_image=true&theme=apple&show_offline=false&background_color=121212&interchange=false&mode=light)](https://github.com/kittinan/spotify-github-profile)
