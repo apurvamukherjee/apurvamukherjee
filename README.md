@@ -1,1 +1,3 @@
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=3163p5wgei4ruy46xzncsdfw3czq&cover_image=true&theme=apple&show_offline=false&background_color=121212&interchange=false&mode=light)](https://github.com/kittinan/spotify-github-profile)
+<a href="https://data-card-for-spotify.herokuapp.com/card?user_id=314iaar4lcqouet37zooxs6tvzcu">
+  <img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=314iaar4lcqouet37zooxs6tvzcu" alt="Data Card for Spotify">
+</a>
