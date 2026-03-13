@@ -9,7 +9,4 @@
 ---
 
 <p align=center><img src="https://wakatime.com/share/@Avinal/a70f5eaa-2098-4e5b-b557-240cf1e78033.svg" /></p>
-
-<a href="https://data-card-for-spotify.herokuapp.com/card?user_id=314iaar4lcqouet37zooxs6tvzcu">
   <img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=314iaar4lcqouet37zooxs6tvzcu" alt="Data Card for Spotify">
-</a>
