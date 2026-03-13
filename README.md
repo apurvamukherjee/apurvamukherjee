@@ -4,7 +4,7 @@
 > _Alchemy's Law of Equivalent Exchange_. At the time we believed that to be
 > the true way of the world.
 >
-> ― ***Apurva Mukherjee***
+> ― ***Alphonse Elric***
 
 ---
 
