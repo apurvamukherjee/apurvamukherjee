@@ -5,5 +5,4 @@
 </picture>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=apurvamukherjee&theme=tokyonight&hide_border=true" height="165"/>
 </p>
